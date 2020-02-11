@@ -3,4 +3,9 @@ Entrees
 Sorties
 echanges
 acteurs
+<<<<<<< HEAD
 initiative
+=======
+perspective
+directivel
+>>>>>>> 19c53b71d7dc3eecb7ca718f2990e9da027c8c7a
