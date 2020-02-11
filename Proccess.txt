@@ -3,3 +3,5 @@ Entrees
 Sorties
 echanges
 acteurs
+perspective
+directivel
